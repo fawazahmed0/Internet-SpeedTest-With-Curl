@@ -7,7 +7,8 @@
 
 
 **Instructions:**
-1.  Just run the speedtestwithcurl.sh Script to get download and upload speed of your internet connection
+1.  Give `chmod +x speedtestwithcurl.sh` permissions to the script
+1.  Run the Script: `./speedtestwithcurl.sh` to get download and upload speed of your internet connection
 
 ------------
 
