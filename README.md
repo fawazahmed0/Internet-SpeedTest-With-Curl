@@ -10,3 +10,5 @@
 1.  Just run the speedtestwithcurl.sh Script to get download and upload speed of your internet connection
 
 ------------
+
+**Download Link:** [Click Here](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/releases/download/v1.0/speedtestwithcurl.sh "Click Here") 
