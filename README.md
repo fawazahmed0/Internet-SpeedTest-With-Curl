@@ -11,4 +11,4 @@
 
 ------------
 
-**Download Link:** [Click Here](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/releases/download/v1.0/speedtestwithcurl.sh "Click Here") 
+**Download Link:** [Click Here](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/releases/download/v1.0/speedtestwithcurl.sh "Click Here")
