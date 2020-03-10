@@ -20,3 +20,4 @@ TODO:
 Add Screenshot
 Add Donate button
 PR
+update link using latest tag thing, also do in other repos
