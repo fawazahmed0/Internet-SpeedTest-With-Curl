@@ -12,12 +12,15 @@
 
 ------------
 
-**Download Link:** [Click Here](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/releases/download/v1.0/speedtestwithcurl.sh "Click Here")
+**Screenshot:**
+![Tool Screenshot](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/raw/master/screenshot.jpg "Tool Screenshot")
+
+------------
+
+**Download Link:** [Click Here](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/releases/latest/download/speedtestwithcurl.sh "Click Here")
 
 ------------
 
 TODO:
-Add Screenshot
 Add Donate button
 PR
-update link using latest tag thing, also do in other repos
