@@ -22,5 +22,5 @@
 ------------
 
 TODO:
-Add Donate button
+Add Donate button,
 PR
