@@ -12,7 +12,7 @@
 
 ------------
 
-**Screenshot:**
+**Screenshot:** <br>
 ![Tool Screenshot](https://github.com/fawazahmed0/Internet-SpeedTest-With-Curl/raw/master/screenshot.jpg "Tool Screenshot")
 
 ------------
