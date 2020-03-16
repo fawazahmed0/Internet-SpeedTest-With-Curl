@@ -24,3 +24,4 @@
 TODO:
 Add Donate button,
 PR
+Can use Upload to Release Action
