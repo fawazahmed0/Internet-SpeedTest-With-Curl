@@ -24,4 +24,5 @@
 TODO:
 Add Donate button,
 PR
-Can use Upload to Release Action
+Can use Upload to Release Action </br>
+Note: This might show wrong speeds in internet connections with high upload and download speed due to limit of upload and download servers used by the script, it's better to use this https://speed.measurementlab.net/#/  or https://www.speedtest.net/ in production environment
